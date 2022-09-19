@@ -38,3 +38,6 @@ function multiplicate(number) {
 
 }
 multiplicate(number)
+
+
+Math.floor(Math.random()*(3-1)+1)
